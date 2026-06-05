@@ -1,0 +1,5 @@
+# Ignore directory
+#directory/
+
+# Ignore all text files
+*.notes

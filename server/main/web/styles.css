@@ -1,0 +1,11 @@
+p {
+color: blue;
+font-size: 18px;
+background-color: lightyellow;
+padding: 10px;
+border: 1px solid gray;
+}
+h1, h2 {
+text-align: center;
+color: darkred;
+}
